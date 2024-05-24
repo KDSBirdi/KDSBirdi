@@ -86,6 +86,13 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDSBirdi&theme=darcula&bg_color=00&hide_border=true" width="100%"/>
 
+<img align="left" height="218" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+
+<img align="left" height="192" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952yet34ro6fdmi09f28mq4xqfpbva4jaqikb4pomt8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+<img align="left" height="190" src="https://www.icegif.com/wp-content/uploads/fortnite-icegif-40.gif"  />
+
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/KDSBirdi/count.svg?"  />
