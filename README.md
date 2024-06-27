@@ -68,7 +68,7 @@
 
 
 <div align="center">
-  <a href= "https://www.linkedin.com/in/karandeep-singh-birdi-b9b53922a/" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  /> </a>
+  <a href= "https://www.linkedin.com/in/kdsbirdi" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  /> </a>
   <a href="https://www.instagram.com/karan_14.04" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="50" alt="instagram logo"  /> </a>
   <a href="mailto:karandeep1413@gmail.com" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
 </div> </a>
