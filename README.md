@@ -1,5 +1,5 @@
 <!-- ## Hi there 👋 -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KDSBirdi.KDSBirdi">
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KDSBirdi.KDSBirdi"> -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
